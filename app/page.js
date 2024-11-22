@@ -3,7 +3,6 @@ import {
   About,
   Explore,
   Feedback,
-  Founder,
   GetStarted,
   Hero,
   Insights,
@@ -30,7 +29,6 @@ const Page = () => (
     <div className="relative">
       <Insights />
       <div className="gradient-03 z-0" />
-      <Founder />
     </div>
     <div className="relative">
       <Feedback />
